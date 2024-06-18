@@ -1,8 +1,8 @@
-public class Bicycle extends Vehicle {
+public class BicycleBai1 extends VehicleBai1 {
 
-    Bicycle() {}
+    BicycleBai1() {}
 
-    Bicycle(int speed) {
+    BicycleBai1(int speed) {
         this.speed = speed;
     }
 

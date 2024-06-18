@@ -1,9 +1,9 @@
-public class Vehicle {
+public class VehicleBai1 {
     int speed;
 
-    Vehicle() {}
+    VehicleBai1() {}
 
-    Vehicle(int speed) {
+    VehicleBai1(int speed) {
         this.speed = speed;
     }
 
